@@ -1,16 +1,14 @@
-# bmi_calculator_app
+#Project's Title 
+BMI Calculator
 
-A new Flutter project.
+#Project Description
+-This app is used to calculate the Body Mass Index .
+-Using flutter makes it easy to develop great UI & functional apps.
+-Some additional features to add in future :
+  1. To save the user details to store his bmi using firebase.
+  2. Notifications/Reminder adding every month to track the BMI of user.
 
-## Getting Started
+#How to Install and Run the project
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Credits
+Followed the udemy course from Angela Yu (https://github.com/angelabauer)
