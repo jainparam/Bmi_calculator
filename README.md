@@ -1,4 +1,4 @@
-#Project's Title 
+##Project's Title <br>
 BMI Calculator
 
 #Project Description
@@ -8,7 +8,6 @@ BMI Calculator
   1. To save the user details to store his bmi using firebase.
   2. Notifications/Reminder adding every month to track the BMI of user.
 
-#How to Install and Run the project
 
 #Credits
 Followed the udemy course from Angela Yu (https://github.com/angelabauer)
